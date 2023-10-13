@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<h1 align="center"> My name is Maureen Kitang'a</h1>
+<h3 align="center">A passionate Data Scientist</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
-<!--
-**ndungek/ndungek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **developing advanced predictive models for customer behavior analysis using machine learning algorithms**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning I’m currently learning **deep learning techniques for image recognition and natural language processing to extract insights from unstructured data**.
+
+- 📫 How to reach me **ndungek66@gmail.com**
+
+- ⚡ Fun fact **The term "debugging" was coined by Grace Hopper when she removed a moth from the computer👀**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/__ndunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ndungek" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maureen-kitang-a-301908204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ndungek" height="30" width="40" /></a>
+</p>
