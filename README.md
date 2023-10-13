@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
-<h1 align="center"> My name is Maureen Kitang'a</h1>
+<h1 align="center">Hi there 👋-- My name is Maureen Kitang'a</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
