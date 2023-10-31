@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **developing advanced predictive models for customer behavior analysis using machine learning algorithms**.
 
-- 🌱 I’m currently learning I’m currently learning **deep learning techniques for image recognition and natural language processing to extract insights from unstructured data**.
+- 🌱 I’m currently learning **deep learning techniques for image recognition and natural language processing to extract insights from unstructured data**.
 
 - 📫 How to reach me **ndungek66@gmail.com**
 
