@@ -1,8 +1,7 @@
-<h1 align="center">Hi there 👋-- My name is Maureen Kitang'a</h1>
-<h3 align="center">A Data Scientist</h3>
+<p>Hi there 👋--</p>
+Welcome to my GitHub repository! Here, I showcase projects and code related to data science, machine learning, and engineering. I am passionate about leveraging data to derive meaningful insights and build innovative solutions.
 
-
-- 🌱 I’m currently learning **deep learning techniques for image recognition and natural language processing to extract insights from unstructured data**.
+- 🌱 Proficient in Python, R, and SQL for data extraction, cleaning, and analysis. Skilled in classification, regression, clustering, and NLP techniques for machine learning.
 
 - 📫 How to reach me **ndungek66@gmail.com**
 
