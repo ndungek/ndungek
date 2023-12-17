@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋-- My name is Maureen Kitang'a</h1>
 <h3 align="center">A Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
-
 
 
 - 🌱 I’m currently learning **deep learning techniques for image recognition and natural language processing to extract insights from unstructured data**.
